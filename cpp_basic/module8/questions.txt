@@ -1,0 +1,6 @@
+1. 把模块7里的Shape/Circle/Square拆成Shape.h(声明)、Shape.cpp(实现Shape::area(),Circle/Square因为逻辑简单可以直接写在.h里,或者你也可以拆成Circle.h/Square.h练手)、
+main.cpp,用g++命令行手动编译通过并运行出正确结果
+
+2. 写一个简单的Makefile,把上面的编译命令自动化,用make命令编译成功
+
+3. 写一个简单的CMakeLists.txt,用cmake生成并编译成功

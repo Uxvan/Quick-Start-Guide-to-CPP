@@ -1,0 +1,3 @@
+/Users/lmx/Desktop/cpp/module8/build/CMakeFiles/myprogram.dir
+/Users/lmx/Desktop/cpp/module8/build/CMakeFiles/edit_cache.dir
+/Users/lmx/Desktop/cpp/module8/build/CMakeFiles/rebuild_cache.dir
