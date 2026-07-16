@@ -1,4 +1,4 @@
-# Quick-Start-Guide-to-C++
+# Quick-Start-Guide-to-CPP
 利用例子快速掌握cpp
 
 ## C++ 学习大纲
